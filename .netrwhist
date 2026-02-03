@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/khovakim/.vim'
+let g:netrw_dirhist_9='/home/khovakim'
+let g:netrw_dirhist_8='/home/khovakim/Desktop/Projects/libzen/src/util'
+let g:netrw_dirhist_7='/home/khovakim/Desktop/Projects/libzen/src'
+let g:netrw_dirhist_6='/home/khovakim/Desktop/Projects/libzen'
+let g:netrw_dirhist_5='/home/khovakim/.oh-my-zsh'
+let g:netrw_dirhist_4='/home/khovakim'
+let g:netrw_dirhist_3='/home/khovakim/.pki'
+let g:netrw_dirhist_2='/home/khovakim/.pki/nssdb'
+let g:netrw_dirhist_1='/home/khovakim/.pki'
